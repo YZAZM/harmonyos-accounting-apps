@@ -220,7 +220,7 @@ Week 6-7: 上架发布
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 📧 邮箱: [your.email@example.com]
+- 📧 邮箱: [xsk686260@gmail.com]
 - 🐛 GitHub Issues: [提交 Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues)
 - 💬 讨论区: [GitHub Discussions](https://github.com/YOUR_USERNAME/YOUR_REPO/discussions)
 
