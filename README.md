@@ -202,9 +202,9 @@ Week 6-7: 上架发布
 
 ## 👥 作者
 
-- **开发者**: [Your Name]
-- **邮箱**: [your.email@example.com]
-- **GitHub**: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **开发者**: [YZAZM]
+- **邮箱**: [xsk686260@gmail.com]
+- **GitHub**: [@YZAZM](https://github.com/YZAZM)
 
 ---
 
