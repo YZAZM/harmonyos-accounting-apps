@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "primary",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "expense",
+      "value": "#FF5722"
+    },
+    {
+      "name": "income",
+      "value": "#4CAF50"
+    }
+  ]
+}

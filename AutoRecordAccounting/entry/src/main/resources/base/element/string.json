@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "自动记账应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "自动记账"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "自动记账"
+    },
+    {
+      "name": "accessibility_service_label",
+      "value": "自动记账辅助服务"
+    },
+    {
+      "name": "accessibility_service_desc",
+      "value": "用于监听支付页面并自动记账"
+    },
+    {
+      "name": "permission_accessibility_reason",
+      "value": "需要无障碍权限来监听支付页面"
+    },
+    {
+      "name": "permission_float_window_reason",
+      "value": "需要悬浮窗权限来显示记账确认弹窗"
+    },
+    {
+      "name": "permission_background_reason",
+      "value": "需要后台运行权限来持续监听支付"
+    }
+  ]
+}

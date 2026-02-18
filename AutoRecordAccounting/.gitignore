@@ -1,0 +1,38 @@
+# 自动记账App - Git忽略文件
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Build
+build/
+*.hap
+*.hsp
+*.har
+
+# Dependencies
+node_modules/
+oh_modules/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test reports
+test_reports/
+coverage/
+
+# Local config
+local.properties
+*.local
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
